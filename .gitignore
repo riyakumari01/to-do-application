@@ -2,8 +2,6 @@
 
 
 # ignore all json files
-*.json
-
 
 # dependencies
 /node_modules
